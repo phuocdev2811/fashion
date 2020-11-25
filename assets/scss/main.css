@@ -282,13 +282,13 @@ header {
     .bg__hero .hero__content3 h4 {
       width: 140px; }
   .bg__hero.bg__hero1 {
-    background: url("/assets/img/thumb1.webp") no-repeat center center;
+    background: url("./assets/img/thumb1.webp") no-repeat center center;
     background-size: cover; }
   .bg__hero.bg__hero2 {
-    background: url("/assets/img/thumb2.webp") no-repeat center center;
+    background: url("./assets/img/thumb2.webp") no-repeat center center;
     background-size: cover; }
-  .bg__hero.bg__hero3 {
-    background: url("/assets/img/thumb3.webp") no-repeat center center;
+  .bg__hero.bg__hero3 {  
+    background: url("./assets/img/thumb3.webp") no-repeat center center;
     background-size: cover; }
 
 .hero__content {
