@@ -19,15 +19,15 @@
         }
     }
     &.bg__hero1{
-        background: url('./assets/img/thumb1.webp')no-repeat center center;
+        background: url('/assets/img/thumb1.webp')no-repeat center center;
         background-size: cover;
     }
     &.bg__hero2{
-        background: url('./assets/img/thumb2.webp')no-repeat center center;
+        background: url('/assets/img/thumb2.webp')no-repeat center center;
         background-size: cover;
     }
     &.bg__hero3{
-        background: url('./assets/img/thumb3.webp')no-repeat center center;
+        background: url('/assets/img/thumb3.webp')no-repeat center center;
         background-size: cover;
     }
 }
